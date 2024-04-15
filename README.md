@@ -8,7 +8,9 @@ The Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) su
 
 ## PROJECT 2: [Employee Wellness Analysis & Work Absenteeism Dashboard](https://github.com/sarahkpree/Absenteeism_At_Work/tree/main)
 
-The project focused on conducting Exploratory Data Analysis (EDA) on employee data to uncover insights into absenteeism patterns and employee well-being. By addressing specific questions, the analysis aimed to understand various factors influencing absenteeism and identify potential correlations within the dataset. The analysis revealed that 111 employees meet specific health criteria and are entitled to a bonus totaling $100,000, with each eligible employee receiving approximately $900. Additionally, efforts to incentivize a smoke-free workplace environment have been initiated, with 686 non-smoking employees identified and a budget allocation of $983,221 designated for hourly wage increases. Furthermore, while certain factors such as education level and age correlate with absenteeism rates, other factors like commute distance and tenure do not exhibit significant relationships.
+The project focused on conducting Exploratory Data Analysis (EDA) on employee data to uncover insights into absenteeism patterns and employee well-being. By addressing specific questions, the analysis aimed to understand various factors influencing absenteeism and identify potential correlations within the dataset. In addition, a PowerBI dashboard was created to further understand absenteeism on work.
+
+The analysis revealed that 111 employees meet specific health criteria and are entitled to a bonus totaling $100,000, with each eligible employee receiving approximately $900. Additionally, efforts to incentivize a smoke-free workplace environment have been initiated, with 686 non-smoking employees identified and a budget allocation of $983,221 designated for hourly wage increases. Furthermore, while certain factors such as education level and age correlate with absenteeism rates, other factors like commute distance and tenure do not exhibit significant relationships.
 
 <img width="631" alt="Screen Shot 2024-04-15 at 11 55 22 AM" src="https://github.com/sarahkpree/sarahkpree.github.io/assets/61251211/efcfc191-f417-406e-86ec-b601439344b5">
 
@@ -18,4 +20,9 @@ This project involved creating an ER dashboard using simulated patient census da
 
 <img width="1195" alt="Screen Shot 2024-04-15 at 11 45 08 AM" src="https://github.com/sarahkpree/sarahkpree.github.io/assets/61251211/3dadd524-63b2-4363-9f12-e09735e44951">
 
+## PROJECT 4: [Patient Waitlist Dashboard](https://github.com/sarahkpree/Patient_Waitlist/tree/main)
+
+The PowerBI dashboard provides a comprehensive view of the patient waitlist at the hospital, featuring various visualizations based on key criteria. These include a pie chart illustrating the distribution of case types (inpatient, outpatient, or day case), a stacked column chart showing wait times categorized by age group, and a list highlighting the top 5 specialties with the longest wait times. Additionally, line charts track the total cases over time, with separate lines for each case type and a specific line for outpatient cases. Users can filter the data by date, case type, and specialty to tailor their analysis.
+
+<img width="1005" alt="Screen Shot 2024-04-15 at 12 22 38 PM" src="https://github.com/sarahkpree/sarahkpree.github.io/assets/61251211/cf687732-fcb0-44a5-80be-762198df77db">
 
