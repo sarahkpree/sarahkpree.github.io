@@ -1,6 +1,6 @@
 # Sarah Preese
 
-## Portfolio Projects 
+## **Portfolio Projects** 
 
 ### PROJECT 1: [Patient Reported Satisfaction Dashboard (HCAHPS) ](https://github.com/sarahkpree/Patient_Satisfaction/tree/main)
 
@@ -28,17 +28,17 @@ The PowerBI dashboard provides a comprehensive view of the patient waitlist at t
 
 <img width="1005" alt="Screen Shot 2024-04-15 at 12 22 38 PM" src="https://github.com/sarahkpree/sarahkpree.github.io/assets/61251211/cf687732-fcb0-44a5-80be-762198df77db">
 
-## Academic Projects
+## **Academic Projects**
 
-### PROJECT 5: [Diabetes Diagnosis SVM](https://github.com/sarahkpree/Diabetes_Diagnosis)
+### PROJECT 1: [Diabetes Diagnosis SVM](https://github.com/sarahkpree/Diabetes_Diagnosis)
 
 This group project aimed to leverage machine learning techniques to identify key predictors for diagnosing diabetes. Through data cleaning, preprocessing, and the implementation of Support Vector Machine (SVM) with regularization, significant predictors such as glucose levels, the diabetes pedigree function, and BMI were identified. Despite challenges such as data imbalance and missing values, the project highlights the potential of machine learning in improving and predicting a diabetes diagnosis.
 
-### PROJECT 6: [Dog Breed Identification](https://github.com/sarahkpree/Dog_Breed_Identification)
+### PROJECT 2: [Dog Breed Identification](https://github.com/sarahkpree/Dog_Breed_Identification)
 
 The aim of this group project was to develop models capable of categorizing various dog breeds using Convolutional Neural Networks (CNNs). With a dataset comprising of 120 dog breeds, we trained multiple models employing both handcrafted CNN architectures and transfer learning approaches. Keeping hyperparameters constant across all models during training, we found that transfer learning models consistently outperformed handcrafted CNN models on this dataset, with Xception achieving the highest accuracy rate of 80.5%. Additionally, we highlighted the significance of fine-tuning models, which greatly improves their performance. Furthermore, we examined and compared the GPU requirements and training times of different models, noting that transfer learning models, particularly ResNet50V2, required over 15 hours. Lastly, we also explored dog breeds that are easily distinguishable and those that are not.
 
-### PROJECT 7: [Netflix Content Analysis](https://github.com/sarahkpree/Netflix_Analysis)
+### PROJECT 3: [Netflix Content Analysis](https://github.com/sarahkpree/Netflix_Analysis)
 
 This final project entails a statistical analysis report using a public dataset from Kaggle.com containing information on over 15,000 titles on Netflix, including genre, language, rating, runtime, IMDb score, Rotten Tomatoes score, etc. Initially, I downloaded and processed the dataset in Excel, reducing it from 29 to 11 columns to simplify analysis. After importing the data into R, I conducted graphical and numerical analyses, including bar graphs for categorical data like genre and language, and histograms with calculations for numerical data such as IMDb score and Rotten Tomatoes score.
 
