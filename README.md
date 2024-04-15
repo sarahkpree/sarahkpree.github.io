@@ -1,3 +1,5 @@
+# Portfolio
+
 ## [Patient Reported Satisfaction Analysis (HCAHPS)](https://github.com/sarahkpree/Patient_Satisfaction/tree/main)
 
 The Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey is a standardized survey used to measure patients' perspectives on the quality of care they received in the hospital. The survey encompasses various aspects of the patient experience, including communication with nurses and doctors, cleanliness and quietness of the hospital environment, pain management, discharge information, and overall rating of the hospital. The goal of this project was to create a Tableau dashboard that compares patient safisfaction across hospitals in the United States to examine healthcare quality, identify areas for improvement, and improve transparency.
