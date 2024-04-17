@@ -1,7 +1,5 @@
 # **Sarah Preese**
 
-# -- PORTFOLIO --
-
 ## **Personal Projects** 
 
 ### PROJECT 1: [Patient Reported Satisfaction Dashboard (HCAHPS) ](https://github.com/sarahkpree/Patient_Satisfaction/tree/main)
