@@ -6,6 +6,8 @@
 
 The Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) survey is a standardized survey used to measure patients' perspectives on the quality of care they received in the hospital. The survey encompasses various aspects of the patient experience, including communication with nurses and doctors, cleanliness and quietness of the hospital environment, pain management, discharge information, and overall rating of the hospital. The goal of this project was to create a Tableau dashboard that compares patient safisfaction across hospitals in the United States to examine healthcare quality, identify areas for improvement, and improve transparency.
 
+Below is a snapshot of the dashboard. To get the full interactactive dashboard, click [here](https://public.tableau.com/views/Patient_Survey/PatientSatisfaction?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 <img width="1035" alt="Screen Shot 2024-04-15 at 11 21 25 AM" src="https://github.com/sarahkpree/sarahkpree.github.io/assets/61251211/9eb0b501-5752-4ed3-92d7-0e2722ed95cc">
 
 ### PROJECT 2: [EXPLORATORY ANALYSIS OF ABSENTEEISM PATTERNS AND EMPLOYEE WELL-BEING](https://github.com/sarahkpree/Absenteeism_At_Work/tree/main)
